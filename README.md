@@ -1,2 +1,2 @@
 # worksheep
-An AI powered platform to download worksheets for preschoolers/homeschoolers
+An AI powered platform to generate and download worksheets for preschoolers/homeschoolers. The target users are parents of children aged 2-6 years old who can mention their child's age and learning requirements and the AI will then respond with the appropriate set of worksheets ready to be downloaded. Additionally, users can also download directly from the catalogue based on age and topic.
